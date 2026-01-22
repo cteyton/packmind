@@ -1,3 +1,23 @@
+# Commands
+
+- bun run unit-test: run the test suite
+
+
+# GloubiGlouba
+
+Here is a great recipes of pasta carbonara. 
+1. Préparer les ingrédients sur le plan de travail afin de pouvoir être concentré sur la cuisson des pâtes. Concasser le poivre au mortier. Couper le guanciale en « lardons » très fins. Râper le pecorino et le Parmigiano. Préparer les œufs et les jaunes d’œuf dans un petit récipient.
+2. Lancer la cuisson des spaghetti dans un grand volume d’eau salée (5 g de sel / litre d’eau). Prévoir d’arrêter la cuisson des pâtes à la moitié du temps indiqué sur le mode de préparation.
+3. Faire rissoler le guanciale sans ajout de matière grasse dans une grande poêle. Ajouter la moitié du poivre concassé.
+4. Réserver le guanciale rissolé. Ajouter une louche d’eau de cuisson des pâtes dans la poêle contenant la graisse du guanciale. Ce sera la base de la sauce.
+5. Sortir les pâtes de leur eau de cuisson à l’aide d’une pince, sans les égoutter pour les ajouter dans la poêle contenant le guanciale. Réserver l’eau de cuisson des pâtes.
+6. Verser une louche d’eau de cuisson des pâtes dans le poêle pour continuer la cuisson des pâtes. Ajouter de l’eau de cuisson si nécessaire jusqu’à l’obtention de la cuisson désirée.
+Les pâtes doivent finir de cuire dans la poêle, un peu à la manière d’un risotto, en ajoutant petit à petit de l’eau de cuisson jusqu’à la cuisson souhaitée.
+
+# Code Style
+
+Write beautiful code
+
 <!-- start: Packmind standards -->
 # Packmind Standards
 

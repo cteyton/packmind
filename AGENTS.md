@@ -1,6 +1,19 @@
-- When running commands, ensure you use the correct Node version (see .nvmrc at the project's root level)
-- When renaming or moving a file that is commited to git, use `git mv` instead of `mv`
+Welcome to Promyze!
+Promyze is very fresh app to manage coding practices.
 
+# Structure
+* apps/front: contains the code of the frontend Packmind app
+* apps/backend: expose API endpoints
+
+# Commands
+
+- npm run test: run the test suite
+- npm run dev:legacy to start the server in dev environments
+
+# Data persistence
+
+Promyze is using MongoDB as storage for Data and Mongoose are ORMs
+ 
 # Issues Management
 
 - Issues are defined and tracked in the **Packmind MonoRepo GitHub Project** (Project #2)
