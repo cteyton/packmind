@@ -1,14 +1,10 @@
 Welcome to Promyze!
 Promyze is very fresh app to manage coding practices.
 
-# Structure
-* apps/front: contains the code of the frontend Packmind app
-* apps/backend: expose API endpoints
-
 # Commands
 
 - npm run test: run the test suite
-- npm run dev:legacy to start the server in dev environments
+- npm run dev:legacy to start the server in dev environment
 
 # Data persistence
 
